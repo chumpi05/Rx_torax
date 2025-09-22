@@ -1,2 +1,2 @@
-# quitar-ruido
-para quitar ruido
+# Rx_torax
+para evaluar rx de torax
